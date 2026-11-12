@@ -1,6 +1,6 @@
 cask "keyway" do
-  version "0.4.0"
-  sha256 "602f8a50900fbd29682fe8d255db350735352024d94178ec49c26eeb8040d290"
+  version "0.5.2"
+  sha256 "b26e938c0a0d491e958a9eb25ad1288480b56b4e3a01447c0fb7270d1cad52de"
 
   url "https://github.com/arminsameti/Keyway/releases/download/v#{version}/Keyway-v#{version}-macOS.zip"
   name "Keyway"
